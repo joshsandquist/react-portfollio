@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Navigation({ currentPage, setPage }) {
+function Nav({ currentPage, setPage }) {
   return (
     <ul className="nav nav-tabs">
       <li className="nav-item">
@@ -43,4 +43,4 @@ function Navigation({ currentPage, setPage }) {
   );
 }
 
-export default Navigation;
+export default Nav;

@@ -1,9 +1,13 @@
-import React from "react"
-import PortfolioContainer from "./components/PortfolioContainer";
+import React,{ useState } from "react"
 import Header from './components/Header'
 
 const App = () => {
-    <Header />
+    const [currentPage, setPage] = useState('About Me')
+
+    <div>
+        <Header currentPage={currentPage} setPage={setPage} />
+    </div>
+    
 }
 
 export default App;
