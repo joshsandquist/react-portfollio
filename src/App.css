@@ -65,7 +65,7 @@ header h1 {
     background-color: var(--light);
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    min-height: 100vh;
+    min-height: 90vh;
     
 }
 
@@ -76,7 +76,7 @@ header h1 {
 }
 
 .portfolioPage {
-    min-height: 70vh;
+    
 }
 
 .aboutPage p {

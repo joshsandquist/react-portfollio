@@ -1,12 +1,15 @@
 import React from "react"
 import PortfolioContainer from "./components/PortfolioContainer";
 import "./App.css"
-import Footer from "./components/Footer";
+import Footer from './components/Footer'
 
 const App = () => 
-<div className= 'portfolioContainer' >
-    <PortfolioContainer/>
-    <Footer/>
+<div>
+    <div className= 'portfolioContainer' >
+        <PortfolioContainer/>
+    
+    </div>
+    <div> <Footer/></div>
 </div>
 
 
