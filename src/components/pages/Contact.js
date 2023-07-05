@@ -90,9 +90,7 @@ const Contact = () => {
   
     return (
       <div className = 'contactPage'>
-        <h2>
-            Contact Me
-        </h2>
+        
         {submitted ? (
           <div>
             <h2>Thank you for your message!</h2>
@@ -100,7 +98,9 @@ const Contact = () => {
         ) : (
         
           <div className='contactFormContainer'>
-            
+            <h2>
+            Contact Me
+            </h2>
               <form onSubmit={handleSubmit} className='contactForm'>
                 <label>
                   Name:

@@ -76,7 +76,7 @@ header h1 {
 }
 
 .portfolioPage {
-    min-height: 100vh;
+    min-height: 70vh;
 }
 
 .aboutPage p {
@@ -125,11 +125,14 @@ header h1 {
     margin: 10px 0px;
     border: var(--text-dark) 1px solid
 }
-
+.contactPage {
+    min-height: 70vh;
+}
 
 .contactFormContainer {
     display: flex;
-    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 
 .contactForm {
