@@ -3,10 +3,10 @@ import React from 'react'
 const Portfolio = () =>{
 
 return (
-    <div>
-        <h1>
+    <div className= 'portfolioPage'>
+        <h2>
             Portfolio Test
-        </h1>
+        </h2>
     </div>
   )};
 

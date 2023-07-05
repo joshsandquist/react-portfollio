@@ -3,10 +3,10 @@ import React from 'react'
 const Resume = () =>{
 
 return (
-    <div>
-        <h1>
+    <div className='resumePage'>
+        <h2>
             Resume Test
-        </h1>
+        </h2>
     </div>
   )};
 

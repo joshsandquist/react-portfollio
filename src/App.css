@@ -1,0 +1,90 @@
+
+:root {
+    --dark: #2c3e50;
+    --light: #ecf0f1;
+    --accent: #3498db;
+    --text-dark: #34495e;
+    --text-light: #bdc3c7;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body,html{
+    background-color: var(--dark);
+    color: var(--text-dark);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: var(--dark);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    color: var(--light);
+}
+
+header h1 {
+    margin-bottom: 10px;
+}
+
+/* Navigation Styles */
+.nav {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    width: 100%;
+    padding: 10px 0;
+}
+
+.nav-item a {
+    color: var(--light);
+    text-decoration: none;
+}
+
+.nav-item a:hover {
+    color: var(--accent);
+}
+
+.nav-item a.active {
+    color: var(--accent);
+    border-bottom: 2px solid var(--accent);
+}
+
+/* Container Styles */
+.portfolioContainer {
+    margin: 0px;
+    padding: 0px;
+    background-color: var(--light);
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    min-height: 100vh;
+    
+}
+
+.portfolioContainer h2 {
+    padding: 30px;
+}
+
+.portfolioPage {
+}
+
+.aboutPage p {
+    padding: 0px 40px 15px 40px;
+
+}
+
+.aboutPage img {
+    height: 150px;
+    border-radius: 50%;
+    border: solid var(--dark) 5px;
+    margin: 5px 30px;
+    float: left;
+}

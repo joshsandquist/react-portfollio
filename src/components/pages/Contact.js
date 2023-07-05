@@ -3,10 +3,10 @@ import React from 'react'
 const Contact = () =>{
 
 return (
-    <div>
-        <h1>
+    <div className='contactPage'>
+        <h2>
             Contact Test
-        </h1>
+        </h2>
     </div>
   )};
 
