@@ -17,7 +17,7 @@ return (
 
         <p>My knack for code coupled with my background in policy allows me to approach programming with a unique perspective. I believe that good coding isn't just about getting the job done—it's about creating user-friendly, efficient, and accessible digital environments that make a difference.</p>
 
-        <p>Here, on my portfolio website, you'll find an extensive showcase of my projects, which mirror my dedication to writing clean, maintainable code, and building responsive, user-friendly websites. These projects highlight my ability to create both the face and the functionality of a website, using various technologies such as MongoDB, Express.js, React.js, and Node.js.</p>
+        <p>Here, on my portfolio website, you'll find an extensive showcase of my projects, which mirror my dedication to writing clean, maintainable code, and building responsive, user-friendly applications. These projects highlight my ability to create both the face and the functionality of a website, using various technologies such as MongoDB, Express.js, React.js, and Node.js.</p>
 
         <p>You'll also find my detailed resume which offers a comprehensive look at my skills, experiences, and accomplishments. And of course, a contact page, which I invite you to use to get in touch with me for any inquiries, project collaborations, or job opportunities.</p>
 
