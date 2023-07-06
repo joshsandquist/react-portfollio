@@ -3,6 +3,8 @@ import QuizSite from '../../images/Quiz-site.png'
 import FlexFeasts from '../../images/FlexFeasts.png'
 import PlayersParadise from '../../images/PlayersParadise.png'
 import EmpTracker from '../../images/Employee-Tracker.png'
+import SVGLogo from '../../images/SVG-Logo.png'
+import ComingSoon from '../../images/ComingSoon.avif'
 
 const Portfolio = () =>{
     const portfolioItems = [
@@ -29,6 +31,18 @@ const Portfolio = () =>{
           image: QuizSite,
           githubUrl: 'https://github.com/joshsandquist/Quiz-website',
           appUrl: 'https://joshsandquist.github.io/Quiz-website/',
+        },
+        {
+          title: 'Logo Generator',
+          image: SVGLogo,
+          githubUrl: 'https://github.com/joshsandquist/SVG-Logo-Maker',
+          appUrl: 'https://drive.google.com/file/d/128vqw1q_yXA3q3E9S9LoB5GzWlfNZ9F7/view',
+        },
+        {
+          title: 'Coming Soon',
+          image: ComingSoon,
+          githubUrl: 'https://github.com/joshsandquist',
+          appUrl: 'https://github.com/joshsandquist',
         },
   
       ];
