@@ -1,7 +1,7 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGithub, faLinkedin, faStackOverflow } from '@fortawesome/free-brands-svg-icons';
-
+//Using the FontAwesome package to generate logos
 const Footer = () => {
     return (
       <footer className="footerPage">

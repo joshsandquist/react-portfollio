@@ -4,7 +4,7 @@ import ResumeImg from '../../images/Joshua_Sandquist_Resume_2023.png';
 const Resume = () => {
   const frontEndProficiencies = ['HTML', 'CSS', 'JavaScript', 'React', 'Bootstrap'];
   const backEndProficiencies = ['Node.js', 'Express', 'MongoDB', 'MySQL', 'Jest', 'RESTful API', 'GraphQL' ];
-
+    //Will map over the proficiencies arrays to create a new li for each element in the array.
   return (
     <div className='resumePage'>
     <h2>Resume</h2>

@@ -6,6 +6,7 @@ import Contact from './pages/Contact'
 import Resume from './pages/Resume'
 
 const PortfolioContainer = () => {
+  // State variable used to update current page, default set to aabout me page
     const [currentPage, setPage] = useState('About Me')
 
     const renderPage = () => {

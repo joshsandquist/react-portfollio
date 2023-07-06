@@ -2,6 +2,7 @@ import React from 'react';
 
 function Nav({ currentPage, setPage }) {
   return (
+    //Nav tabs for each page, will update dynamically on click with setPage function
     <ul className="nav nav-tabs">
       <li className="nav-item">
         <a

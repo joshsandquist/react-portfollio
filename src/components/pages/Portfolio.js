@@ -32,6 +32,7 @@ const Portfolio = () =>{
         },
   
       ];
+      //Mapping over portfolioItems array to create a card for each instance. Can add or delete items from the array as needed.
       return (
         <div className="portfolioPage">
           <h2>Portfolio</h2>
