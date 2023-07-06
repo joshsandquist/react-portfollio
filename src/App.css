@@ -75,12 +75,9 @@ header h1 {
     color: var(--text-dark);
 }
 
-.portfolioPage {
-    
-}
 
 .aboutPage p {
-    padding: 0px 40px 15px 40px;
+    padding: 0px 40px 10px 40px;
 
 }
 
@@ -99,23 +96,34 @@ header h1 {
 }
 
 .resumePage img {
-    width: 80%;
+    width: 70%;
     align-items: center;
-    margin: 20px 10px;
+    margin: 0px 10px 40px;
     border: 1px solid transparent;;
     border-radius: 10px;
     box-shadow: 0px 0px 10px var(--text-dark);
 
 }
 
-.footer {
-    height: 100px;
-    color: var(--light);
-    background-color: var(--dark);
-    display: flex;
-    justify-content:space-evenly;
-    align-items: center;
-}
+.proficiencies {
+    margin-bottom: 10px;
+  }
+  
+  .proficiencies h3 {
+    margin: 20px;
+    color: var(--text-dark);
+  }
+  
+  .proficiencies ul {
+    list-style-type: none;
+    text-align: center;
+    margin-right: 40px;
+  }
+  
+  .proficiencies li {
+    margin-bottom: 8px;
+    color: var(--text-dark);
+  }
 
 .form-input {
     display: flex;
@@ -178,7 +186,6 @@ header h1 {
     }
 
     .portfolioPage {
-        padding: 30px;
         text-align: center;
         background-color: var(--light);
       }
@@ -193,6 +200,7 @@ header h1 {
       .portfolio-card {
         width: 500px;
         padding: 15px;
+        margin: 10px 20px 60px;
         background-color: var(--text-dark);
         color: var(--text-light);
         border-radius: 8px;
@@ -232,4 +240,22 @@ header h1 {
       .portfolio-buttons a:hover {
         background-color: var(--light);
         color: var(--text-dark);
+      }
+      .footerPage {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: var(--dark);
+        margin-bottom: 0;
+        height: 100px;
+      }
+      
+      .footerPage a {
+        font-size: 50px;
+        color: var(--light);
+        padding: 20px 40px;
+      }
+      
+      .footerPage a:hover {
+        color: var(--text-light);
       }
