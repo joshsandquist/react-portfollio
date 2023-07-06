@@ -28,8 +28,14 @@
   N/A
 
   ## Screenshots
+<img width="1510" alt="Screenshot 2023-07-06 at 11 09 59 AM" src="https://github.com/joshsandquist/react-portfollio/assets/104536533/18142764-bcd9-44a5-851d-7822d771eef8">
+
+
+<img width="1511" alt="Screenshot 2023-07-06 at 11 10 11 AM" src="https://github.com/joshsandquist/react-portfollio/assets/104536533/877ed279-a35a-4914-9a96-e2e2dc08d31f">
 
   ## Github Repo
+
+https://github.com/joshsandquist/react-portfollio
 
   ## Deployed Application
 
