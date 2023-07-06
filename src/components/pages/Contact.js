@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import './Contact.css'
 
 const Contact = () => {
     //Setting state for form data with default being empty strings
