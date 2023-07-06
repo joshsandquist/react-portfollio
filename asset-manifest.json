@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.1f078593.css",
-    "main.js": "/react-portfolio/static/js/main.679ac0db.js",
-    "static/media/PlayersParadise.png": "/react-portfolio/static/media/PlayersParadise.c38da854d8e47c084e11.png",
-    "static/media/FlexFeasts.png": "/react-portfolio/static/media/FlexFeasts.96a36567385f86b9f43a.png",
-    "static/media/Joshua_Sandquist_Resume_2023.png": "/react-portfolio/static/media/Joshua_Sandquist_Resume_2023.48b044d71d04674e3525.png",
-    "static/media/Employee-Tracker.png": "/react-portfolio/static/media/Employee-Tracker.f6e1aa0008b799780002.png",
-    "static/media/JoshSandquist.jpg": "/react-portfolio/static/media/JoshSandquist.84d4c5e59b9148d4e665.jpg",
-    "static/media/Quiz-site.png": "/react-portfolio/static/media/Quiz-site.97f5adf7cd00d6d3faf6.png",
-    "static/media/SVG-Logo.png": "/react-portfolio/static/media/SVG-Logo.244daf61b32a83d1686b.png",
-    "static/media/ComingSoon.avif": "/react-portfolio/static/media/ComingSoon.787f91743921128aa718.avif",
-    "index.html": "/react-portfolio/index.html",
-    "main.1f078593.css.map": "/react-portfolio/static/css/main.1f078593.css.map",
-    "main.679ac0db.js.map": "/react-portfolio/static/js/main.679ac0db.js.map"
+    "main.css": "/react-portfollio/static/css/main.1f078593.css",
+    "main.js": "/react-portfollio/static/js/main.b2901bb1.js",
+    "static/media/PlayersParadise.png": "/react-portfollio/static/media/PlayersParadise.c38da854d8e47c084e11.png",
+    "static/media/FlexFeasts.png": "/react-portfollio/static/media/FlexFeasts.96a36567385f86b9f43a.png",
+    "static/media/Joshua_Sandquist_Resume_2023.png": "/react-portfollio/static/media/Joshua_Sandquist_Resume_2023.48b044d71d04674e3525.png",
+    "static/media/Employee-Tracker.png": "/react-portfollio/static/media/Employee-Tracker.f6e1aa0008b799780002.png",
+    "static/media/JoshSandquist.jpg": "/react-portfollio/static/media/JoshSandquist.84d4c5e59b9148d4e665.jpg",
+    "static/media/Quiz-site.png": "/react-portfollio/static/media/Quiz-site.97f5adf7cd00d6d3faf6.png",
+    "static/media/SVG-Logo.png": "/react-portfollio/static/media/SVG-Logo.244daf61b32a83d1686b.png",
+    "static/media/ComingSoon.avif": "/react-portfollio/static/media/ComingSoon.787f91743921128aa718.avif",
+    "index.html": "/react-portfollio/index.html",
+    "main.1f078593.css.map": "/react-portfollio/static/css/main.1f078593.css.map",
+    "main.b2901bb1.js.map": "/react-portfollio/static/js/main.b2901bb1.js.map"
   },
   "entrypoints": [
     "static/css/main.1f078593.css",
-    "static/js/main.679ac0db.js"
+    "static/js/main.b2901bb1.js"
   ]
 }
