@@ -5,7 +5,7 @@ import PlayersParadise from '../../images/PlayersParadise.png'
 import EmpTracker from '../../images/Employee-Tracker.png'
 import SVGLogo from '../../images/SVG-Logo.png'
 import ComingSoon from '../../images/ComingSoon.avif'
-
+import LinkedUp from '../../images/LinkedUp.png'
 const Portfolio = () =>{
     const portfolioItems = [
         {
@@ -39,10 +39,10 @@ const Portfolio = () =>{
           appUrl: 'https://drive.google.com/file/d/128vqw1q_yXA3q3E9S9LoB5GzWlfNZ9F7/view',
         },
         {
-          title: 'Coming Soon',
-          image: ComingSoon,
-          githubUrl: 'https://github.com/joshsandquist',
-          appUrl: 'https://github.com/joshsandquist',
+          title: 'LinkedUp',
+          image: LinkedUp,
+          githubUrl: 'https://github.com/dapatel4092/LinkedUp-',
+          appUrl: 'https://agile-ridge-91799-160d7345b56c.herokuapp.com/',
         },
   
       ];
